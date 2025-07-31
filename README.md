@@ -35,6 +35,13 @@ This will:
 
 ---
 
+## Compatibility
+
+This script currently works on Linux.
+If you're on Windows or macOS and would like support, feel free to open an issue.
+
+---
+
 First-time setup
 ----------------
 
