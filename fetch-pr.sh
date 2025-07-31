@@ -27,7 +27,7 @@ prompt_for_config() {
   echo -e "\n📂 Where should we store PR folders?"
   echo "  → A new folder named pr-<number> will be created for each PR (e.g., pr-123)."
   echo "  → Please choose the parent directory where these folders should go."
-  echo "  Tip: Use /tmp for a clean temporary workspace (💥 deleted on reboot!)"
+  echo "  Tip: Use /tmp for a clean temporary workspace (💥 deleted on reboot)"
   echo ""
   read -rp "Parent folder for PRs (e.g., /home/user/dev or /tmp): " PR_BASE_DIR
 
