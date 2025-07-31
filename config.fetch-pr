@@ -1,0 +1,3 @@
+REPO_URL="https://github.com/Sovereinia/guia.git"
+PR_BASE_DIR="/tmp"
+POST_CLONE_SCRIPT="npm install | npm run build | npm run dev"
